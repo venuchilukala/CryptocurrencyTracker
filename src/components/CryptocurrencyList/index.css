@@ -1,0 +1,27 @@
+.currency-image {
+    width: 30px;
+    height: 30px;
+  }
+  
+  li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .currency-value {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 50%;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .name-img {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: 50%;
+  }
+  
